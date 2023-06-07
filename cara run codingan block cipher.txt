@@ -1,0 +1,4 @@
+langkah menggunakan codingan  :
+1. install variabel crypto di python , masuk ke cmd lalu ketik "pip install pycryptodome"
+2. disarankan dirun dengan jupyter notebook, copas codingannya lalu dirun dengan jupyter notebook
+3. plaintext dan key masih manual, jadi dimasukkan sebelum dirun 
